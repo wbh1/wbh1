@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I am a Senior SRE Manager currently working @akamai (formerly @linode) working on internal Observability platforms.
+I am a Senior SRE Manager currently working @akamai (formerly @linode) working on internal platforms for observability and Kubernetes.
 
 I've worked in tech for >10 years, live in the mountains of Virginia with my 4 kids, 3 cats, and 2 dogs.
 
