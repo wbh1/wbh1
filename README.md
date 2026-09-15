@@ -23,12 +23,14 @@ I've worked in tech for >10 years, live in the mountains of Virginia with my 4 k
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=wbh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-stats-extended.vercel.app/api?username=wbh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=wbh1&theme=dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wbh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=wbh1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Repos contributed to by wbh1](https://github-contrib-stats.vercel.app/wbh1/contributed.svg?max_repos=10)
+
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=wbh1&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
