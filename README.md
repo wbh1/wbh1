@@ -1,8 +1,8 @@
 # 👨‍💻 About Me
 
-I am a Senior SRE Manager currently working @akamai (formerly @linode) working on internal platforms for observability and Kubernetes.
+I am a Senior SRE Manager currently working @akamai (formerly @linode) working on internal platforms for observability, Kubernetes, and multi-tenant control planes.
 
-I've worked in tech for >10 years, live in the mountains of Virginia with my 4 kids, 3 cats, and 2 dogs.
+I live in the Blue Ridge mountains of Virginia with my 4 kids, 3 cats, and 2 dogs.
 
 **Buy my book**: [![Book](https://img.shields.io/badge/Mastering%20Prometheus-F37143?style=flat&logo=packt&logoColor=white)](https://www.packtpub.com/en-us/product/mastering-prometheus-9781805125662)
 
